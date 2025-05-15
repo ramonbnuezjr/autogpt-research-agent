@@ -7,7 +7,7 @@ Here’s the full **refactored `README.md`** with the **Sample Report** section 
 
 A modular AI pipeline that plans, executes, stores memory, and reports research—all orchestrated by `main.py`.
 
-## Features
+## Features - only one feature for now
 
 - **Planner**: Breaks a research goal into actionable subtasks  
 - **Executor**: Uses an LLM to research each subtask  
@@ -86,3 +86,4 @@ We use **pytest** for automated tests.
 ---
 
 *For more details on CI, linting, and type checking, see [`.github/workflows/ci.yml`](.github/workflows/ci.yml) and the lint configs in the repo root.*
+
